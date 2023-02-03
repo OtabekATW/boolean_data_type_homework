@@ -8,4 +8,3 @@ def main(a):
     """
     # Write your code here
     return math.sqrt(a) % 1 == 0
-print(main(8))
